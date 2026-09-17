@@ -1,0 +1,37 @@
+datasets
+pandas
+pillow
+torchmetrics
+attrs
+tqdm
+opencv-python-headless
+timm
+lightning
+yacs
+einops
+albumentations
+jsonargparse
+h5py
+numpy==1.26.4
+
+# pretrained backbones
+transformers
+# sdxl vae
+diffusers
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+
+# optioanl
+matplotlib
+wandb
+termcolor
+ruff
+
+# export
+onnx
+onnxscript
+onnxruntime
+pyserial
+protobuf==3.20.3

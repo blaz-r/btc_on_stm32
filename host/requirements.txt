@@ -1,0 +1,7 @@
+numpy==1.26.4
+pillow
+matplotlib
+onnx
+pyserial
+protobuf==3.20.3
+# Install stm_ai_runner from your ST Edge AI installation separately.

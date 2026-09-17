@@ -1,0 +1,5 @@
+# Binary models and the complete generated network bundle use Git LFS.
+*.onnx filter=lfs diff=lfs merge=lfs -text
+firmware/BTC_STM/Appli/AI/App/network* filter=lfs diff=lfs merge=lfs -text
+firmware/BTC_STM/Appli/AI/App/stai_network* filter=lfs diff=lfs merge=lfs -text
+firmware/binaries/** filter=lfs diff=lfs merge=lfs -text
