@@ -8,7 +8,7 @@ The detection performance stays almost unchanged.
 ![Example host validation result for sample 46](docs/image.png)
 
 This is not a plug and play project, mostly collection of code and notes I wrote
-while trying to get the BTC to work on STM32N6. A lot of the code here was also written by codex (given my limited time) so it's not the cleanest.
+while trying to get the BTC to work on STM32N6. Hopefully someone finds this useful. A lot of the code here was also written by codex (given my limited time) so it's not the cleanest.
 If there's sufficient interest, I'll try to polish it up and make it more user-friendly.
 
 | Directory | Contents                                                                        |
